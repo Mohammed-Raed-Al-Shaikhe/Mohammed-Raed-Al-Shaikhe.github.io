@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# Your Name
+# Mohammed Al-Shaikh
 
 ## About
 
-I am a recent graduate in [Computer Science / Electrical Engineering] from [University Name] in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in [your areas of interest — e.g., NLP, computer vision, data engineering, deployment].
-
+I am a recent graduate in Software Engineering from Hashemite University in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in data analysis, machine learning, and building real-world AI applications.
 ---
 
 ## Projects
@@ -17,11 +16,11 @@ I am a recent graduate in [Computer Science / Electrical Engineering] from [Univ
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo: [your-repo-link](#)
+  - Repo: [[your-repo-link]](https://github.com/Mohammed-Raed-Al-Shaikhe)(#)
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
-  - Repo: [your-repo-link](#)
+  - Repo: [[your-repo-link]](https://github.com/Mohammed-Raed-Al-Shaikhe)(#)
   - Skills: Git collaboration, pull requests, code review, merge conflict resolution
 
 **Data Pipelines & PyTorch Fundamentals**
